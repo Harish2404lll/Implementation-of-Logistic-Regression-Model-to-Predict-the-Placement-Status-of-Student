@@ -13,8 +13,8 @@ Using logistic regression find the predicted values of accuracy , confusion matr
 Display the results.
 ## Program:
 ```
-#Developed by: kabilan T
-#RegisterNumber: 212222230059
+#Developed by: HARISH G
+#RegisterNumber: 212222243001
 
 import pandas as pd
 data=pd.read_csv("Placement_Data.csv")
